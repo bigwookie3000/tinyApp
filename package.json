@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/bigwookie3000/tinyApp/issues"
   },
-  "homepage": "https://github.com/bigwookie3000/tinyApp#readme"
+  "homepage": "https://github.com/bigwookie3000/tinyApp#readme",
+  "dependencies": {
+    "express": "file:node_modules/express"
+  }
 }
